@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Text;
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Ho fatto 74% su Magma Bound!");
 #region firma
 Console.WriteLine("Classe 3 \nAS 2023/24 ");
 //firma dell'autore
